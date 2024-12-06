@@ -1,0 +1,21 @@
+ul{
+    background-color: #6c3737;
+}
+ol{
+    background-color: #169f84;
+}
+h1{
+    background-color: #c9c9c9;
+    text-align: center;
+}
+.yellow{
+    background-color: rgb(191, 206, 30);
+    text-align: justify;
+}
+.width{
+    width: 900px;
+    text-align:end;
+}
+#orange{
+    text-align: right;
+}
