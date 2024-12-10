@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    background-color: chocolate;
+    height: auto;
+    width: fit-content;
+    padding: 30px;
+    border: 2px solid black;
+    margin: 30px 20px 10px 30px;
+    border-bottom: dotted black;
+    border-top: solid yellow;
+}
