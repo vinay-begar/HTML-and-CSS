@@ -1,0 +1,18 @@
+.square{
+    background-color:magenta;
+    height:300px;width: 300px;
+}
+.circle{
+    background-color: red;
+    height:300px;width: 300px;
+    border-radius: 50%;
+}
+.rect{
+    background-color:blanchedalmond;
+    height: 200px;width: 500px;
+}
+.oval{
+    background-color: #b43dbd;
+    height: 200px;width: 400px;
+    border-radius: 50%;
+}
