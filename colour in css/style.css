@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*
+1.color name -blue violet
+2.RGB value-rgb(111,111,111)
+3.hash value-#00fff00
+4.RGBA-RGB+APLHA(transparancy)
+5.linear-gradient-(to top,pink,blue,white,crimson)
+*/
+
+
+h1{
+    color: blue;
+    font-display: ;
+    height: 100vh;
+    text-align: center;
+    background: linear-gradient(to bottom,orange,white,green);
+
+
+}
