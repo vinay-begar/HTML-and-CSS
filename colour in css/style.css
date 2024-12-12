@@ -10,14 +10,17 @@
 4.RGBA-RGB+APLHA(transparancy)
 5.linear-gradient-(to top,pink,blue,white,crimson)
 */
-
+p{
+  background: linear-gradient(to bottom,orange,white,green);
+    height: 100vh;
+    font-size:30px;
+}
 
 h1{
     color: blue;
-    font-display: ;
-    height: 100vh;
+    font-size: 100px;
+    
     text-align: center;
     background: linear-gradient(to bottom,orange,white,green);
-
 
 }
