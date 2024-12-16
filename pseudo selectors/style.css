@@ -1,0 +1,48 @@
+/* Before and After Pseudo Selectors */
+body::before {
+  content: "";
+  display: block;
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  background-color: crimson;
+}
+
+.head::after {
+  content: "";
+  display: block;
+  border-bottom: 2px dashed red;
+}
+
+/* Hover and Active */
+a:hover {
+  background-color: green;
+}
+a:active {
+  background-color: pink;
+}
+p {
+  color: blue;
+  background-color: #54e7d6;
+}
+
+p:hover {
+  color: magenta;
+  text-align: center;
+}
+
+button {
+  padding: 5px 10px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+button:hover {
+  background: linear-gradient(orange, white, green);
+  color: blue;
+  padding: 30px 20px;
+}
+
+button:active {
+  background-color: violet;
+  color: aqua;
+}
